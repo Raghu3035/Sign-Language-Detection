@@ -2,6 +2,11 @@
 Problem Statement:
 Communication barriers can be a real challenge for those who use sign language. Since many people aren't familiar with it, conversations can become quite tricky. This project aims to tackle that issue by developing a real-time system that captures sign language gestures through a webcam and converts them into text.
 
+Team Members:
+1. K. Sri Raghu Vardhan
+2. K. Ranga Siva Raju
+3. K. Siva Rama Chandra Sarma
+4. 
 Solution:
 This project harnesses the power of computer vision and machine learning to identify hand gestures in real time. It utilizes MediaPipe for pinpointing hand landmarks and employs Scikit-Learn’s RandomForestClassifier to classify the signs. The system can recognize various hand gestures and translate them into letters or words.
 
@@ -20,4 +25,4 @@ Steps and Instructions:
    This will open a webcam feed and recognize gestures in real time.
 
 Demo Video:
-https://drive.google.com/file/d/1AMx3TscSTdKXud862zEKE1m5IRsS0mCT/view?usp=drive_link
+https://drive.google.com/file/d/1AMx3TscSTdKXud862zEKE1m5IRsS0mCT/view?usp=sharing
