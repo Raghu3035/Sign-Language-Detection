@@ -34,7 +34,7 @@ Steps and Instructions:
 4. Train the Model
    Train a RandomForestClassifier to classify sign gestures: python train_classifier.py
    Once training is complete, it saves the trained model.
-5. Run the Real-Time Detection
+6. Run the Real-Time Detection
    Use the trained model for real-time sign detection: python inference_classifier.py
    This will open a webcam feed and recognize gestures in real time.
 
