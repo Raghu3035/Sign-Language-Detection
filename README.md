@@ -18,3 +18,6 @@ Steps and Instructions:
 5. Run the Real-Time Detection
    Use the trained model for real-time sign detection: python inference_classifier.py
    This will open a webcam feed and recognize gestures in real time.
+
+Demo Video:
+https://drive.google.com/file/d/1AMx3TscSTdKXud862zEKE1m5IRsS0mCT/view?usp=drive_link
