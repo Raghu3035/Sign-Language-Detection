@@ -6,9 +6,23 @@ Team Members:
 1. K. Sri Raghu Vardhan
 2. K. Ranga Siva Raju
 3. K. Siva Rama Chandra Sarma
-4. 
+4. K. Sai Krishna
+   
 Solution:
 This project harnesses the power of computer vision and machine learning to identify hand gestures in real time. It utilizes MediaPipe for pinpointing hand landmarks and employs Scikit-Learn’s RandomForestClassifier to classify the signs. The system can recognize various hand gestures and translate them into letters or words.
+
+Features:
+1. Real-time hand tracking using MediaPipe.
+2. Gesture classification with Scikit-Learn.
+3. Webcam-based interaction for ease of use.
+4. Expandable dataset to include more gestures.
+
+Tech Stack:
+1. Python (Programming Language)
+2. OpenCV (Computer Vision)
+3. MediaPipe (Hand Landmark Detection)
+4. Scikit-Learn (Machine Learning Classifier)
+5. NumPy & Pickle (Data Processing & Storage)
 
 Steps and Instructions:
 1. Install Dependencies
