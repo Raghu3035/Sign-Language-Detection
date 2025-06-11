@@ -20,7 +20,7 @@ Tech Stack:
 
 Steps and Instructions:
 1. Install Dependencies
-   Ensure you have Python 3.6+ installed, then run: pip install -r requirements.txt
+   Ensure you have Python 3.6+ installed.
 2. Collect Sign Language Data
    Run the script to capture hand gesture images: python collect_imgs.py
 3.  Create the Dataset
